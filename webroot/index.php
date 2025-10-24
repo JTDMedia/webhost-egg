@@ -1,7 +1,7 @@
 <html lang="nl"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gehost bij JustVikie!</title>
+  <title>Your webserver is online!</title>
   <style>
     body {
       margin: 0;
@@ -55,12 +55,11 @@
   </style>
 </head>
 <body>
-  <h1>Hey jij!</h1>
+  <h1>Hello, world!</h1>
   <p>
-    Deze website is <strong>gehost bij</strong>:<br>
-    <span style="color:#00ffe0; font-size: 1.5rem;"><strong>JustVikie.online</strong></span><br><br>
-    Ga daar zéker je <strong>website</strong>, <strong>Discord bot</strong>, <strong>VPS</strong>, <strong>Minecraft server</strong> of andere projecten hosten! 🚀
+    Your website is online! Go to the <strong>webroot</strong> folder to edit this page and add your own pages!<br>
+    <span style="color:#00ffe0; font-size: 1.5rem;"><strong>Powered by JustVikie.nl</strong></span><br><br>
   </p>
-  <a class="button" href="http://justvikie.online">Bezoek JustVikie</a>
-  <div class="tagline">💚 Krachtig. Gratis. Altijd online.</div>
+  <a class="button" href="http://justvikie.nl">Visit JustVikie</a>
+  <div class="tagline">💚 If you have any issues, you can contact me at jtd@bdstudios.nl</div>
 </body></html>
